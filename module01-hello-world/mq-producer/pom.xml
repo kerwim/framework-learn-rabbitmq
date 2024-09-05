@@ -5,29 +5,16 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.Noctifloroused</groupId>
-        <artifactId>RabbitMQ-test-framework</artifactId>
+        <artifactId>module01-hello-world</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>module01-hello-world</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>mq-producer</module>
-        <module>mq-consumer</module>
-    </modules>
+    <artifactId>mq-producer</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-
-    <dependencies>
-        <dependency>
-            <groupId>com.rabbitmq</groupId>
-            <artifactId>amqp-client</artifactId>
-            <version>5.20.0</version>
-        </dependency>
-    </dependencies>
 
 </project>

@@ -9,12 +9,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>module01-hello-world</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>mq-producer</module>
-        <module>mq-consumer</module>
-    </modules>
+    <artifactId>module02-Work-Queue</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
