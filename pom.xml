@@ -25,6 +25,9 @@
         <module>module01-hello-world</module>
         <module>module02-Work-Queue</module>
         <module>module03-Publish-Subscribe</module>
+        <module>module04-Routing</module>
+        <module>module05-Topic</module>
+        <module>module06-integration-springboot</module>
     </modules>
     <scm>
         <connection/>
