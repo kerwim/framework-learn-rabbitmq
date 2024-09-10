@@ -28,6 +28,8 @@
         <module>module04-Routing</module>
         <module>module05-Topic</module>
         <module>module06-integration-springboot</module>
+        <module>module07-confirm-producer</module>
+        <module>module08-confirm-consumer</module>
     </modules>
     <scm>
         <connection/>
