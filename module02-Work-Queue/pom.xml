@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.Noctifloroused</groupId>
-        <artifactId>RabbitMQ-test-framework</artifactId>
+        <artifactId>framework-learn-rabbitmq</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
